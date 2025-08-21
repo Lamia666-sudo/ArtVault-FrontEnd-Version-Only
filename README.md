@@ -9,4 +9,4 @@ Artwork display with images, categories, titles, descriptions, and prices.
 
 Interactive elements (add to cart, view details, subscribe/contact forms).
 
-Built with HTML, CSS, and JavaScript.
+Built with HTML, CSS, and JavaScript and Bootstrap 5
